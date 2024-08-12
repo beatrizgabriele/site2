@@ -1,0 +1,29 @@
+
+.imagem1{
+    width: 20%;
+}
+*{
+
+    background-color: rgb(250, 244, 248);
+}
+.imagem2{
+    width: 20%;
+    
+}
+.inicio{
+    text-align: center;
+}
+
+footer{
+    padding: 10px;
+    text-align: center;
+    color: rgb(91, 7, 226);
+}
+line
+.fonte1{
+    font-variant: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fonte2,.fonte3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
